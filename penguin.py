@@ -17,19 +17,16 @@ while 1:
     print("""{} 
 
  
-	   .--.
-	  |o_o |
-	  |:_/ |
-	 //   \ \
-	(|     | )
-	/'\_   _/`\
-	\___)=(___/
+print("""{}
 
-
-
-
-
-
+      .--.  
+     |o_o |  
+     |:_/ |  
+    //   \\ \\  
+   (|     | )  
+  /'\\_   _/`\\  
+  \\___)=(___/
+  	
     Sms: {}           {}by {}@emocan  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
     try:
