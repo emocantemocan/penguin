@@ -25,7 +25,7 @@ print("""{}
     //   \\ \\  
    (|     | )  
   /'\\_   _/`\\  
-  \\___)=(___/
+  \\___)=(___/)
   	
     Sms: {}           {}by {}@emocan  
     """.format(Fore.LIGHTCYAN_EX, len(servisler_sms), Style.RESET_ALL, Fore.LIGHTRED_EX))
