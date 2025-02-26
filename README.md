@@ -1,8 +1,8 @@
 Kurulum
 
-git clone https://github.com/Ayhancann/Blue-Cat.git
+git clone https://github.com/emocantemocan/penguin.git
 
-cd Blue-Cat
+cd penguin
 
 pip3 install -r requirements.txt
 
