@@ -15,7 +15,8 @@ for attribute in dir(SendSms):
 while 1:
     system("cls||clear")
     print("""{} 
-	
+
+ 
 	   .--.
 	  |o_o |
 	  |:_/ |
@@ -23,6 +24,10 @@ while 1:
 	(|     | )
 	/'\_   _/`\
 	\___)=(___/
+
+
+
+
 
 
     Sms: {}           {}by {}@emocan  
