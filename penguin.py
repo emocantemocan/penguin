@@ -14,7 +14,7 @@ for attribute in dir(SendSms):
             
 while 1:
     system("cls||clear")
-    print("""{} 
+    print("""{} )
 
  
 print("""{}
